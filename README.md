@@ -5,4 +5,9 @@ This repository has two case studies for Clustered Unit Commitment problems:
 
 The optimization model description is available in:
 
+G. Morales-España and D. A. Tejada-Arango, _"Modeling the Hidden Flexibility of Clustered Unit Commitment,"_ in IEEE Transactions on Power Systems, vol. 34, no. 4, pp. 3294-3296, July 2019.
+doi: 10.1109/TPWRS.2019.2908051
+
+And as a preprint in:
+
 G. Morales-Espana and D. A. Tejada-Arango, _“Modelling the Hidden Flexibility of Clustered Unit Commitment,”_ arXiv e-prints, p. [arXiv:1811.02622](https://arxiv.org/abs/1811.02622), Nov. 2018.
